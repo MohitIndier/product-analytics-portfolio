@@ -19,6 +19,5 @@ auto-retry logic could recover 96% of transient failures.
 ### 4. Fraud Detection *(planned)*
 
 ## About
-[Mohit Kumar]
-[https://www.linkedin.com/in/mohit-sharma-3a0206203/]
+[Mohit Kumar](https://www.linkedin.com/in/mohit-sharma-3a0206203/)
 Medium link will be live soon.
