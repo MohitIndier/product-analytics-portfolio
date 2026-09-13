@@ -32,5 +32,4 @@ This creates the schema `upi_funnel` (create it first with
 loads the table `upi_funnel.upi_transactions`.
 
 ### 3. Run the analysis
-Full SQL queries, findings, and recommendations are published here: 
-[Medium article link]
+Full SQL queries, findings, and recommendations are published on Medium. Link Above.
